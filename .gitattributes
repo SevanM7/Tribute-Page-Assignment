@@ -1,2 +1,55 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf8"/>
+        <title>Tribute Page Assignment</title>
+    </head>
+
+    <body>
+        <h1 id="title">Person I Admire Placeholder</h1>
+        <p>description placeholder</p>
+        <p id="photo">image of person</p>
+        <img src="">
+        
+        <section>
+            <h2 class="subtitle">Admirable qualities<h2>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            <ul>
+        </section>
+
+        <section>
+            <h2 class="subtitle">Life Achievements<h2>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                
+            <ul>
+        </section>
+        
+        </section>
+
+        <section>
+            <h2 class="subtitle">Favorite Quotes<h2>
+            <ul>
+                <li class="italics"></li>
+                <li class="italics"></li>
+                <li class="italics"></li>
+                
+            <ul>
+        </section>
+
+        <section>
+            <h2 class="subtitle">Why I chose this person<h2>
+           <p>placeholder text</p>
+        </section>
+
+    </body>
+
+</html>
